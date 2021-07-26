@@ -3,9 +3,7 @@ package com.example.prans.news.model;
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
-/**
- * Created by prans on 05-03-2018.
- */
+
 
 public class News {
 

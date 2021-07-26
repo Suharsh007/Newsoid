@@ -4,9 +4,7 @@ import android.content.Context;
 import android.net.ConnectivityManager;
 import android.support.annotation.NonNull;
 
-/**
- * Created by prans on 05-03-2018.
- */
+
 
 public class Internet {
 

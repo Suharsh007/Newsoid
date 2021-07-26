@@ -6,9 +6,7 @@ import retrofit2.Call;
 import retrofit2.http.GET;
 import retrofit2.http.Query;
 
-/**
- * Created by prans on 11-03-2018.
- */
+
 
 public interface ApiResponse {
 

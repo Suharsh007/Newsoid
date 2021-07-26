@@ -5,9 +5,6 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 import static com.example.prans.news.model.Contants.BASE_URL;
 
-/**
- * Created by prans on 05-03-2018.
- */
 
 public class ApiClient {
     /**

@@ -1,8 +1,6 @@
 package com.example.prans.news.model;
 
-/**
- * Created by prans on 11-03-2018.
- */
+
 
 public class Contants {
 

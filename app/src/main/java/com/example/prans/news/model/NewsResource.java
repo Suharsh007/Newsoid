@@ -5,9 +5,7 @@ import com.google.gson.annotations.SerializedName;
 
 import java.util.ArrayList;
 
-/**
- * Created by prans on 05-03-2018.
- */
+
 
 public class NewsResource {
     @SerializedName("articles")

@@ -33,9 +33,7 @@ import static com.example.prans.news.model.Contants.API_KEY;
 import static com.example.prans.news.model.Contants.CATEGORY_ENTERTAINMENT;
 import static com.example.prans.news.model.Contants.COUNTRY;
 
-/**
- * A simple {@link Fragment} subclass.
- */
+
 public class EntertainmentFragment extends Fragment implements SwipeRefreshLayout.OnRefreshListener {
 
 

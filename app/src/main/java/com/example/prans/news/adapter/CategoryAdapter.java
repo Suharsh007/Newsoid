@@ -14,9 +14,6 @@ import com.example.prans.news.fragment.TechnologyFragment;
 import com.example.prans.news.fragment.Top_HeadlinesFragment;
 import com.example.prans.news.fragment.WorldFragment;
 
-/**
- * Created by prans on 08-01-2018.
- */
 
 public class CategoryAdapter extends FragmentPagerAdapter {
 
